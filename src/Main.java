@@ -1,4 +1,3 @@
-
 public class Main {
     final static int LINHAS = 5;
     final static int COLUNAS = 6;
