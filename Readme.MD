@@ -1,10 +1,10 @@
 # Projeto: Decodificação e Codificação por Transposição de Caracteres
 
 **Desenvolvido por:** Geraldo Lucas Bezerra Rocha  
-**Disciplina:** IMD0703 - SEGURANÇA DE REDES - T02 (2025.1) 
+**Disciplina:** IMD0703 - SEGURANÇA DE REDES - T02  
 **Algoritmo de transposição**  
 **Universidade Federal do Rio Grande do Norte (UFRN)**  
-**Professor:** ANDERSON CLAUDIO RODRIGUES DA SILVA
+**Professor:** Anderson Claudio Rodriges Da Silva
 
 ## Descrição
 
